@@ -1,13 +1,13 @@
 ## Hi there 👋
 
 ## Soy Sergio Carvallo
-**Full Stack JavaScript Trainee | Developer | **Backend Oriented**
+**Full Stack JavaScript Trainee** | **Developer** | **Backend Oriented**
 
 Me he dedicado construir sistemas robustos, escalables y bien estructurados. Me especializo en **Backend**, el diseño de bases de datos relacionales y la arquitectura de APIs. Aunque tengo visión full stack, mi mayor fortaleza y motivación está en el lado del servidor: crear lógica de negocio sólida, modelar datos con integridad y entregar APIs limpias y mantenibles.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ **Stack Tecnológico**
 
 - **Lenguajes y Frameworks:** JavaScript (ES6+), Node.js, Express
 - **Bases de Datos:** PostgreSQL, SQL, Modelado Relacional, ORM (Sequelize / Prisma)
@@ -16,7 +16,7 @@ Me he dedicado construir sistemas robustos, escalables y bien estructurados. Me 
 
 ---
 
-## 🎯 Mi Enfoque
+## 🎯 **Focus**
 
 Combino sólidos fundamentos técnicos con una mentalidad orientada a resultados:
 
@@ -27,7 +27,7 @@ Combino sólidos fundamentos técnicos con una mentalidad orientada a resultados
 
 ---
 
-## 📫 Contacto
+## 📫 **Contacto**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/scarvallot/)
 - ✉ [s.carvallot@gmail.com](mailto:s.carvallot@gmail.com)
