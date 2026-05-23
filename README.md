@@ -31,3 +31,32 @@ Combino sólidos fundamentos técnicos con una mentalidad orientada a resultados
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/scarvallot/)
 - ✉ [s.carvallot@gmail.com](mailto:s.carvallot@gmail.com)
+
+---
+
+## 📊 Estadísticas y Actividad
+
+### Estadísticas de GitHub
+![Sergio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scarvallot&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scarvallot&layout=compact&theme=tokyonight&hide_border=true&locale=es)
+
+### Trofeos
+![Trophies](https://github-profile-trophy.vercel.app/?username=scarvallot&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true)
+
+### Contribuciones - Snake Animation
+![Snake animation](https://github.com/scarvallot/scarvallot/blob/output/github-contribution-grid-snake.svg)
+
+### Visitantes
+![Visitor Badge](https://komarev.com/ghpvc/?username=scarvallot&color=0e75b6&style=flat&label=Visitantes)
+
+---
+
+## 🛠️ Tecnologías
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
