@@ -14,8 +14,6 @@ Me he dedicado construir sistemas robustos, escalables y bien estructurados. Me 
 - **Herramientas y Arquitectura:** REST APIs, Arquitectura Modular, Git, Docker, NPM
 - **Habilidades clave:** Programación asíncrona, Diseño de APIs, Lógica de Negocio, Calidad de Datos
 
-## 🛠️ Tecnologías
-
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
